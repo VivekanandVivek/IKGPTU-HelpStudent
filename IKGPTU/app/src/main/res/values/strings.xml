@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IKGPTU</string>
+    <string name="Uni_Add">
+        I.K. Gujral Punjab Technical University, Jalandhar - Kapurthala Highway, VPO - Ibban, Kapurthala-144603, Distt. Kapurthala
+        Email: registrar@ptu.ac.in
+        Phone: +91-1822-282533,35,83
+        For Student Enquiry: 1800-330-2501</string>
+    <string name="man_news">
+        Jalandhar/Kapurthala A B.Tech(Computer Science and Engineering)
+        sixth semester student Manveen Kaur of I.K.Gujral Punjab Technical University Amritsar Campus has been selected
+        to visit Indian Institute of Technology (IIT) Bombay under Yuva Sangam programme of Government of India.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preference_file_name">IKGPTU Preference File</string>
+</resources>
